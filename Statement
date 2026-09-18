@@ -1,0 +1,24 @@
+Project Statement – Simple Expense Tracker (Java)
+The Simple Expense Tracker is a small and easy-to-use Java program made to help users keep track of their daily expenses and income. It works in the console and saves all data in a text file so the information stays available even after closing the program.
+Purpose:
+The main purpose of this project is to give users—especially students—a simple way to understand where their money goes. Instead of using complicated apps, this tool offers a quick and clear method to record spending and view monthly totals.
+Problem:
+Most people forget their day-to-day expenses and end up overspending. Many available tools are confusing or require internet access. This project provides a simple, offline solution for basic financial tracking.
+Objectives:
+- Let users add daily expenses and income.
+- Store all financial records neatly using Java file handling.
+- Show all past entries in one place.
+- Provide monthly summaries with total income, expenses, and balance.
+- Encourage better money management habits.
+Scope:
+The project focuses on essential features only, keeping it beginner-friendly. It can later be expanded with charts, budgets, login features, or a GUI.
+Technologies Used:
+- Java
+- Java File Handling using java.nio.file.Files and Path
+- ArrayList for storing financial records
+- Scanner for console input
+- LocalDate for date handling
+- Classes and Objects
+- Console-based user interface
+Conclusion:
+This Expense Tracker shows how Java can be used to solve real-life problems in a simple way. It helps users stay aware of their spending while also helping beginners practice Java classes, objects, file handling, collections, exception handling, and basic programming logic.
